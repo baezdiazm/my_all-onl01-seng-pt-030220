@@ -8,4 +8,9 @@ while i< collection.length
   i+=1
 end
 
+if newarray.include?(false)
+  false
+else
+true
+end
 end
