@@ -7,6 +7,5 @@ while i< collection.length
   newarray << yield(collection[i])
   i+=1
 end
-newarray
+
 end
-my_all?() { |i| i<2}
