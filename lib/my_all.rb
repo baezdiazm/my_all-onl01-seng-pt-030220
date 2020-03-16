@@ -9,4 +9,4 @@ while i< collection.length
 end
 newarray
 end
-my_all?(i) { |i| i<2}
+my_all?() { |i| i<2}
